@@ -1,0 +1,12 @@
+getpass-asterisk
+beautifulsoup4
+validators
+sys
+os
+time
+requests
+validators
+email.message
+smtplib
+ssl
+getpass_asterisk
